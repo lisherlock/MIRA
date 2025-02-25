@@ -2,7 +2,7 @@
 
 ## Image
 <!-- Replace "path/to/your/image.png" with the actual image path or URL -->
-![Placeholder Image](path/to/your/image.png)
+![Placeholder Image](Image/Multi Centers.jng)
 
 
 ## Overview
