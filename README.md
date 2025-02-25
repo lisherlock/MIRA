@@ -1,7 +1,7 @@
 # MIRA: Medical Imaging Report Assistant
 
 ## Image
-![Multi-center distribution map](Image/Multi Centers.jpg)
+![Multi-center distribution map](Image/Multi_Centers.jpg)
 
 
 ## Overview
