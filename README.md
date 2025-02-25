@@ -29,7 +29,7 @@ We appreciate the support from radiologists at the main center and other partici
 - Shengjing Hospital  
 - The First Affiliated Hospital of Fujian Medical University  
 - The First Affiliated Hospital of Kunming Medical University  
-- Tongji Hospital, Shanghai  
+- Tongji Hospital of Shanghai
 - The Second Hospital of Lanzhou University  
 - The Second Hospital of Tianjin Medical University  
 - Peking University Third Hospital  
