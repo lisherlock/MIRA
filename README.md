@@ -1,8 +1,7 @@
 # MIRA: Medical Imaging Report Assistant
 
 ## Image
-<!-- Replace "path/to/your/image.png" with the actual image path or URL -->
-![Placeholder Image](Image/Multi Centers.jng)
+![Image/Multi Centers.jng]
 
 
 ## Overview
