@@ -9,7 +9,7 @@ The study is based on a multi-million-scale, multi-center, multi-modal radiology
 > **Manuscript Status:**  
 > The manuscript is currently under review, and the relevant results will be updated in the future.
 
-In addition, we would like to extend our heartfelt thanks to Professor Zhang Huimao for his invaluable guidance, and to the following radiologists for their dedicated support: Mu Lin, Gong Jiaqi, Wang Yaning, Yang Simin, Mou Ying, Zhou Weipeng, Cui Yingzhu, Hou Lin, Fu Jiahui, Zheng Yiping, Sun Zehua, Chen Jie, Liu Tong, Liu Ke, Li Si Nuo, Song Shuang, Li Meixin, Zhou Yuting, and Yu Fuxuan.
+In addition, we would like to extend our heartfelt thanks to Professor Zhang Huimao for her invaluable guidance, and to the following radiologists for their dedicated support: Mu Lin, Gong Jiaqi, Wang Yaning, Yang Simin, Mou Ying, Zhou Weipeng, Cui Yingzhu, Hou Lin, Fu Jiahui, Zheng Yiping, Sun Zehua, Chen Jie, Liu Tong, Liu Ke, Li Si Nuo, Song Shuang, Li Meixin, Zhou Yuting, and Yu Fuxuan.
 
 ## Acknowledgements
 We appreciate the support from radiologists at the main center and other participating centers. Special thanks to the following hospitals:
