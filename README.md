@@ -7,7 +7,7 @@
 The study is based on a multi-million-scale, multi-center, multi-modal radiology report dataset. It fine-tunes the large language model **MIRA (Medical Imaging Report Assistant)** and comprehensively evaluates the model’s performance through validation across multiple centers, modalities, and anatomical regions. The video link is: https://www.youtube.com/watch?v=t4lC8i1t_C0.
 
 > **Manuscript Status:**  
-> The manuscript is currently under review, and the relevant results will be updated in the future.
+> The manuscript is currently under review, and the relevant results will be updated in the future. The model weights will be made publicly available after the paper is accepted.
 
 In addition, we would like to extend our heartfelt thanks to Professor Zhang Huimao for her invaluable guidance, and to the following radiologists for their dedicated support: Mu Lin, Gong Jiaqi, Wang Yaning, Yang Simin, Mu Ying, Zhou Weipeng, Cui Yingzhu, Hou Lin, Fu Jiahui, Zheng Yiping, Sun Zehua, Chen Jie, Liu Tong, Liu Ke, Li Sinuo, Song Shuang, Li Meixin, Zhou Yuting, and Yu Fuxuan.
 
